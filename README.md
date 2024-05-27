@@ -1,6 +1,6 @@
 # Hanoi-Tower
-Este repositório contém uma implementação da solução para o problema das Torres de Hanoi em linguagem Assembly. O algoritmo foi desenvolvido para a disciplina de Organização de Computadores e Sistemas Operacionais.  
-Professor: Sergio Vanderlei Cavalcante
+Este repositório contém uma implementação da solução para o problema das Torres de Hanoi em linguagem Assembly. O algoritmo foi desenvolvido para a disciplina de Organização de Computadores e Sistemas Operacionais.   
+Professor: Sergio Vanderlei Cavalcante  
 Alunos: João Lucas Vieira e Wilson Freitas
 
 Para testar, siga os seguintes passos:  
