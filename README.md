@@ -9,3 +9,6 @@ Para testar, siga os seguintes passos:
 - Copie [o código](hanoi.asm)  
 - Acesse o [compilador online](https://www.tutorialspoint.com/compile_asm_online.php)
 - Cole o código e execute-o
+
+Você pode validar as soluções do algoritmo no site:  
+https://www.mathsisfun.com/games/towerofhanoi.html
